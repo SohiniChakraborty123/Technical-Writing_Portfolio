@@ -1,6 +1,6 @@
-# Technical-Writing-
-📝 My Technical Writing Portfolio
-Welcome to my GitHub portfolio! Here, I showcase my experience in creating a variety of technical documents, including user manuals, product manuals, standard operating procedures (SOPs), quick start guides, and installation guides. My goal is to help users effectively understand, navigate, and utilize complex products and systems.
+
+📝 Hi,
+Welcome to my GitHub portfolio! Here, I showcase my experience in creating a variety of technical documents, including user manuals, product manuals, standard operating procedures (SOPs), quick start guides, and installation guides. My goal is to help users effectively understand, navigate, and utilize complex products and systems. This is my Portfolio page where I showcase the documents I have worked on. You may take a look at these documents and gauge my writing skills.
 
 📂 Repository Contents
 In this repository, you’ll find examples of my technical writing work, demonstrating my proficiency in producing clear, concise, and user-friendly documentation. Each folder represents a specific type of document:
@@ -28,8 +28,8 @@ Content Management: Experienced in organizing and maintaining documentation, ens
 Formatting & Layout: Proficient in structuring content for readability and clarity, incorporating visuals, tables, and step-by-step guides where appropriate.
 🖥️ Technologies I Use
 Languages: Python, Markdown, HTML, XML
-Tools: Microsoft Office, Oxygen XML Editor, DITA tools
-Platforms: GitHub, GitLab
+Tools: Microsoft Office,PostMan, Ca
+Platforms: GitHub
 
 📈 My Approach
 For each document type, my approach emphasizes:
